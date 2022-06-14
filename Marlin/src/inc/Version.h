@@ -26,7 +26,7 @@
  */
 
 #ifndef SHORT_BUILD_VERSION
-  #define SHORT_BUILD_VERSION "V1.0.4"
+  #define SHORT_BUILD_VERSION "V1.0.4-ELI-1"
 #endif
 
 /**
